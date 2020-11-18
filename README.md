@@ -50,4 +50,4 @@ SO THAT our own site is optimized for all screen sizes
 
 The following image shows the web application's appearance and functionality:
 
-![code refactor screenshot (layout)](https://github.com/marcojansen-gmx/HTML-Git-CSS-01/blob/main/blob/main/assets/01-html-css-git-homework-demo.png?raw=true)
+![code refactor screenshot (layout)](https://github.com/marcojansen-gmx/CSS-Bootstrap-02/blob/main/assets/Mock-Up.png?raw=true)

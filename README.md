@@ -16,9 +16,12 @@ https://github.com/marcojansen-gmx/CSS-Bootstrap-02.git
 ## User Story
 
 ```
-AS A marketing agency
+AS A developer
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
+AS A developer
+I WANT a codebase that follows responsive design standards
+SO THAT our own site is optimized for all screen sizes
 ```
 
 ## Acceptance Criteria
